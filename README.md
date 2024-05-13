@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me @lochanr2965@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: In my strong opinion, Head First Java for learning Java is the best book you can ever find and the reality-game show, The Devil's Plan is the best show on earth.
+
 
 <!---
 Lochan2965/Lochan2965 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
